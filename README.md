@@ -1,4 +1,4 @@
-# Total Recall
+# Total Recall (POC)
 
 A spaced repetition learning app that helps you remember anything long-term by automatically generating flashcards from your content and intelligently scheduling reviews.
 
